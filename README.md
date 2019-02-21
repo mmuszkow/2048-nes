@@ -6,9 +6,7 @@
 * 2048.chr - graphics (tiles/sprites) data 
 * .. rest - Shiru's low-level and music libraries
 
-Some screenshots:
 ![Alt text](screen0.png?raw=true "Screenshot 0")
 ![Alt text](screen1.png?raw=true "Screenshot 1")
 ![Alt text](screen2.png?raw=true "Screenshot 2")
 ![Alt text](screen3.png?raw=true "Screenshot 3")
-
